@@ -1,6 +1,6 @@
 # RoCraft
 ## Description
-	This is a club project to add something that our devs mess with it. It's a reletively small type of project that can turn into a major project for everyone.
+	This is a club project to add something that our devs mess with it. It's a reletively small type of project that can turn into a major project for everyone. "$beaver control"
 	Here are our reasons why we use Replit instead of using VS Code as our main software:
 		1. Easy to access for Chromebooks
 		2. Cannot be block by our school district
