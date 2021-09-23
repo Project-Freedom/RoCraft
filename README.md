@@ -8,7 +8,7 @@
 		4. No hassel of download VS Code from another website
 		5. Easy for research from other apps as well
 ## Goals
-	There are many goals to our devs because we need to research and experiment our apps and games to use our own darknet protocal for more secure gaming. These are our part of the goals:
+	There are many goals to our devs because we need to research and experiment our apps and games to use our own darknet protocol for more secure gaming. These are our part of the goals:
 		1. Realistic terrain generation
 		2. Backward capability
 		3. Client support
