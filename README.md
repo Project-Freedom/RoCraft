@@ -13,4 +13,4 @@
 		2. Backward capability
 		3. Client support
 		4. Virtualized custom OS
-		5. Own custom secret software(we cannot reveal this because our devs are working on this)
+		5. Own custom secret software (we cannot reveal this because our devs are working on this)
